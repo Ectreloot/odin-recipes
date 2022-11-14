@@ -1,0 +1,16 @@
+Body {
+    background-color: 
+    font-family: 'Courier New', sans-serif
+
+}
+.flan,
+.budin,
+.leches {
+    background-color: #f26363;
+    font-size: 18px;
+    font-family: "Monaco", sans-serif;
+}
+img {
+    height: auto;
+    width:200px
+}
