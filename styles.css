@@ -1,14 +1,13 @@
 Body {
-    background-color: 
-    font-family: 'Courier New', sans-serif
-
+    font-family: Courier, sans-serif;
 }
-.flan,
-.budin,
-.leches {
+.header {
+    background-color: #f26363;
+    width: 235px;
+}
+button {
     background-color: #f26363;
     font-size: 18px;
-    font-family: "Monaco", sans-serif;
 }
 img {
     height: auto;
