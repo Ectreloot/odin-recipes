@@ -4,12 +4,20 @@ Body {
 .header {
     background-color: #f26363;
     width: 235px;
+    border-style: solid;
+    border-color: #3b3a3a;
+    border-width: 2px;
 }
 button {
     background-color: #f26363;
     font-size: 18px;
+    border-style: solid;
+    border-color: #3b3a3a;
 }
 img {
     height: auto;
-    width:200px
+    width:200px;
+    border-style: solid;
+    border-color: rgb(73, 71, 71);
+    border-width: 1px;
 }
