@@ -1,3 +1,4 @@
+
 Body {
     font-family: Courier, sans-serif;
 }
@@ -7,12 +8,19 @@ Body {
     border-style: solid;
     border-color: #3b3a3a;
     border-width: 2px;
+    text-align: center;
+    margin: 0 auto;
+    width: 300px;
+    box-sizing: border-box;
 }
 button {
     background-color: #f26363;
     font-size: 18px;
-    border-style: solid;
-    border-color: #3b3a3a;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+button:hover {
+    background-color: #b94d4d;
 }
 img {
     height: auto;
@@ -20,4 +28,5 @@ img {
     border-style: solid;
     border-color: rgb(73, 71, 71);
     border-width: 1px;
+
 }
